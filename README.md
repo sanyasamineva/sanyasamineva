@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanyasamineva
-- 👀 I’m interested in mobile developement 
+- 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Swift + XCode
 - 📫 How to reach me telegram @thecherrytreewithgrayblossom
 
